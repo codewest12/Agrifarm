@@ -1,0 +1,6 @@
+{
+  "name": "AgriFarm Livestock Tracker",
+  "description": "Farming and livestock management system featuring secure admin and inventory dashboards, payment processing simulation, and livestock camera tracking.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
